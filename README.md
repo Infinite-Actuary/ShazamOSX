@@ -4,11 +4,16 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 ![Shazam](http://www.econometrics.com/_images/home/1.png)
 
+## Installation
+* Download SHAZAM.zip from Google Drive
+* Unzip the file
+* Double click SHAZAM.app to launch SHAZAM
+
 ## Build Notes
 
 * Wrapper version - `Wineskine-2.6.2`
 * Wineskin engine - `WS9Wine2.0`
-* Software - `SHAZAM_11_1_4_32.MSI`
+* Software - `SHAZAM_11_1_4_32.MSI` i.e. `SHAZAM v11.1.4 32 bit`
 * Entry point - `/drive_c/SHAZAM/SHAZAMW.exe`
 * Size - `775 MB .app` | `350 MB .zip`
 
