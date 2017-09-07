@@ -6,11 +6,11 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 ## Installation
 * Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
-  * Hosted on Google Drive. Takes ~35 sec to complete
+> Hosted on Google Drive. Takes ~35 sec to complete
 * Unzip/Unarchive the file
-  * Takes ~2 min
+> Takes ~2 min
 * Move the `SHAZAM.app` to your `~/Desktop`
-  * Resolves `info.plist` permission problems
+> Resolves `info.plist` permission problems
 * Double click `SHAZAM.app` to launch SHAZAM
 
 ## Build Notes
