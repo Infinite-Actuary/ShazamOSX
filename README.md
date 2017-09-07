@@ -1,5 +1,7 @@
 # ShazamOSX
 
+![Shazam](http://www.econometrics.com/_images/home/1.png)
+
 ## A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
 
 ## Build Notes
