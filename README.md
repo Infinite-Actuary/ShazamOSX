@@ -1,5 +1,6 @@
 # ShazamOSX
 
+![test](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.ico)
 A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
 
 ![Shazam](http://www.econometrics.com/_images/home/1.png)
