@@ -1,4 +1,4 @@
-# ShazamOSX
+# Shazam on macOS
 
 ### ![Shazam](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.ico) **+** ![Mac](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/mac-logo.png)
 
