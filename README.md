@@ -5,7 +5,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 ![Shazam](http://www.econometrics.com/_images/home/1.png)
 
 ## Installation
-* Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
+* Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ) (hosted on Google Drive)
 * Unzip the file
 * Double click SHAZAM.app to launch SHAZAM
 
