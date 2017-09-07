@@ -5,7 +5,7 @@
 A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
 
 ## Installation
-* Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
+* Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ) - *pre bundled with Wine & XQuartz*
 > Hosted on Google Drive, 350 MB, takes ~30 sec to complete
 * Unzip/Unarchive the file
 > Takes ~2 min
