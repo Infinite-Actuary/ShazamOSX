@@ -14,6 +14,8 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 ## FAQs
 
+![FAQs](http://1.bp.blogspot.com/-89TOvn-IOyM/Ug6Mvrz9qBI/AAAAAAAABjI/2RJ1OZZXT9s/s640/Capture.GIF)
+
 * [Wrapper cannot be opened message...?](http://wineskin.urgesoftware.com/tiki-index.php?page=GateKeeper)
 * [Why do I have a .desktop file on my Desktop?](http://wineskin.urgesoftware.com/tiki-index.php?page=Why+do+I+have+a+.desktop+file+on+my+Desktop)
 * [Other](http://wineskin.urgesoftware.com/tiki-index.php?page=FAQ)
