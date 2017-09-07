@@ -9,7 +9,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 > Hosted on Google Drive. Takes ~35 sec to complete
 * Unzip/Unarchive the file
 > Takes ~2 min
-* Move the `SHAZAM.app` to your `~/Desktop`
+* Move the `SHAZAM.app` to your `/Applications` folder
 > Resolves `info.plist` permission problems
 * Double click `SHAZAM.app` to launch SHAZAM
 
