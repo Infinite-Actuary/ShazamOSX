@@ -1,9 +1,8 @@
 # ShazamOSX
 
-![test](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.ico)
-A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
+![Shazam](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.ico) + ![Mac](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/mac-logo.png)
 
-![Shazam](http://www.econometrics.com/_images/home/1.png)
+A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
 
 ## Installation
 * Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
