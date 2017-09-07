@@ -6,7 +6,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 ## Installation
 * Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
-> Hosted on Google Drive. Takes ~30 sec to complete
+> Hosted on Google Drive, 350 MB, takes ~30 sec to complete
 * Unzip/Unarchive the file
 > Takes ~2 min
 * Move the `SHAZAM.app` to your `/Applications` folder
@@ -19,8 +19,8 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 * Wrapper version - `Wineskine-2.6.2`
 * Wineskin engine - `WS9Wine2.0`
 * Software - `SHAZAM_11_1_4_32.MSI` i.e. `SHAZAM v11.1.4 32 bit`
-* Entry point - `/drive_c/SHAZAM/SHAZAMW.exe`
-* Size - `775 MB .app` | `350 MB .zip`
+* Entry point - `SHAZAM.app/drive_c/SHAZAM/SHAZAMW.exe`
+* Payload - `775 MB .app`
 
 ## FAQs
 
