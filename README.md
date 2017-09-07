@@ -15,6 +15,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 ## Build Notes
 
+* Winery - `v1.7`
 * Wrapper version - `Wineskine-2.6.2`
 * Wineskin engine - `WS9Wine2.0`
 * Software - `SHAZAM_11_1_4_32.MSI` i.e. `SHAZAM v11.1.4 32 bit`
