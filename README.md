@@ -9,7 +9,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 > Pre bundled with Wine & XQuartz, hosted on Google Drive, 350 MB takes ~30 sec to complete
 * Unzip/Unarchive the file
 > Takes ~2 min
-* Move the `SHAZAM.app` to your `/Applications` folder
+* Move the `SHAZAM.app` to your `/Applications` or `~/Desktop`
 > Resolves `info.plist` permission problems
 * Double click `SHAZAM.app` to launch SHAZAM
 > For added style, replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
@@ -29,4 +29,5 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 
 * [Wrapper cannot be opened message...?](http://wineskin.urgesoftware.com/tiki-index.php?page=GateKeeper)
 * [Why do I have a .desktop file on my Desktop?](http://wineskin.urgesoftware.com/tiki-index.php?page=Why+do+I+have+a+.desktop+file+on+my+Desktop)
+> If the Desktop shortcuts don't work, simply delete them
 * [Other](http://wineskin.urgesoftware.com/tiki-index.php?page=FAQ)
