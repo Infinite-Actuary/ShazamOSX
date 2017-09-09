@@ -12,7 +12,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 * Move the `SHAZAM.app` to your `/Applications` folder
 > Resolves `info.plist` permission problems
 * Double click `SHAZAM.app` to launch SHAZAM
-* For added style, replace the SHAZAM application icon with SHAZAM.icns
+> For added style, replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
 
 ## Build Notes
 
