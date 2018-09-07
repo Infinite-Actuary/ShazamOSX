@@ -15,7 +15,7 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 > Resolves `info.plist` permission problems
 
 4. Double click `SHAZAM.app` to launch SHAZAM
-> For added style, replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
+> For added style replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
 
 ## Build Notes
 
