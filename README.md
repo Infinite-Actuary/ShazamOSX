@@ -5,16 +5,16 @@
 A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM executable
 
 ## Installation
-* Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
+1. Download [SHAZAM.zip](https://drive.google.com/uc?export=download&id=0B-AQnNb1hM3_MlVUVVc1YzAtWjQ)
 > Pre bundled with Wine & XQuartz, hosted on Google Drive, 350 MB takes ~30 sec to complete
-* Unzip/Unarchive the file
+
+2. Unzip/Unarchive the file
 > Takes ~2 min
 
-```diff
-+ Move the SHAZAM.app to your /Applications or ~/Desktop
-```
+3. Move the SHAZAM.app to your /Applications or ~/Desktop
 > Resolves `info.plist` permission problems
-* Double click `SHAZAM.app` to launch SHAZAM
+
+4. Double click `SHAZAM.app` to launch SHAZAM
 > For added style, replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
 
 ## Build Notes
