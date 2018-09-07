@@ -9,7 +9,10 @@ A [Wineskin](http://wineskin.urgesoftware.com/) wrapper containing the SHAZAM ex
 > Pre bundled with Wine & XQuartz, hosted on Google Drive, 350 MB takes ~30 sec to complete
 * Unzip/Unarchive the file
 > Takes ~2 min
-* Move the `SHAZAM.app` to your `/Applications` or `~/Desktop`
+
+```diff
++ Move the SHAZAM.app to your /Applications or ~/Desktop
+```
 > Resolves `info.plist` permission problems
 * Double click `SHAZAM.app` to launch SHAZAM
 > For added style, replace the SHAZAM application icon with [SHAZAM.icns](https://github.com/Infinite-Actuary/ShazamOSX/blob/master/images/SHAZAM.icns?raw=true)
